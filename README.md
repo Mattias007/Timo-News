@@ -25,3 +25,10 @@ Main page kuss on palju uudiseid
 
 uudise page kus on uudis lajalt
 ![uudis 3](https://user-images.githubusercontent.com/93149372/165905596-5b2e1761-4f1f-4c05-8e12-ddb0ddd6b9eb.png)
+
+
+
+Tiim
+Kaspar Vakkum - Figma, Github letetas lahti tõõprotsessi
+Mattias Maasik- Figma, kirjutas uudised, pani pilte, suhtis tiim tööd
+Kristjan Lessel - Figma tegi headeri footer otsis uudied
