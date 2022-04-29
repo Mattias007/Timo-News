@@ -9,7 +9,7 @@ Eesmark on anda inimestele kes usuvad teistsuguseid asju uudiste leht mis nõust
 Leht koosneb kahest osast
 
 Main page kuss on palju uudiseid
-![uudis](https://user-images.githubusercontent.com/93149372/165890836-b09022fb-f6f1-4182-9383-149483621f50.png)
+![main page(1)](https://user-images.githubusercontent.com/93149372/165891252-b904fcf6-e53a-48e8-8f49-b99403f5eae4.png)
 
 
 uudise page kus on uudis lajalt
