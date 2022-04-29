@@ -30,5 +30,7 @@ Uudiste page kus on üks uudis fookuses :
 
 Tiim
 Kaspar Vakkum - tegi Figmas osa main uudiseid, seletas Githubis tööprotsessi lahti.
+
 Mattias Maasik- tegi Figmas ka osa uudiseid, kirjutas uudiseid, pani pilte, juhtis tiimi tööd.
+
 Kristjan Lessel - tegi Figmas headeri ja footeri, otsis uudiseid.
