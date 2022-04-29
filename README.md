@@ -24,4 +24,4 @@ Main page kuss on palju uudiseid
 
 
 uudise page kus on uudis lajalt
-![uudis 2](https://user-images.githubusercontent.com/93149372/165890841-ef2ac87b-f270-4ba1-ba7f-d795a594c70c.png)
+![uudis 3](https://user-images.githubusercontent.com/93149372/165905596-5b2e1761-4f1f-4c05-8e12-ddb0ddd6b9eb.png)
