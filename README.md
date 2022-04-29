@@ -6,8 +6,6 @@ https://www.figma.com/file/lIJUQHt5apFXKGhYYz5hr5/Untitled
 Eesmark on anda inimestele kes usuvad teistsuguseid asju uudiste leht mis nõustub nende mõtetega
 (Administratsioon ei vastuta esitatud teabe eest.)
 
-Leht koosneb kahest osast
-
 
 Töö protsess :
 Alustasime esimestel tundidel idee välja mõtlemisega. Läksime üle mitmete teemade ja jõudsime lõpuks võltsuudiste juurde. Kui me võltsuudiste juurde jäime pidime teemad välja otsima/mõtlema, mille peale kulus paar tundi. Kui meil oli paar ideed kirja pandud, hakkasime ükshaaval Figmat täitma, sisestades kõik oma panused projekti. Kui meil sai paar uudist tehtud hakkas prototüüp juba edenema.
@@ -18,6 +16,8 @@ Uudise peale vajutades toob ta selle fullscreeni, (reklaamid ei kao ära vaid j�
 Peale seda saad tagasi minna ja meie teisi 100% tõeseid uudiseid lugeda.
 Meil on kokku tehtud hetkel kolm trendikat uudist, mis vapusatvad kõiki, kes neid lugema peaksid.
 
+
+Leht koosneb kahest osast
 
 Main page kuss on palju uudiseid
 ![main page(1)](https://user-images.githubusercontent.com/93149372/165891252-b904fcf6-e53a-48e8-8f49-b99403f5eae4.png)
